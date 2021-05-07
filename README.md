@@ -11,5 +11,7 @@ Umbrella-hook contains a small circuit board running a simple program that:
 
 The umbrella-hook then turns on the on-board LED if the returned hours value overlaps the user's chosen "Rain Warning Time" (default to 6 hours).
 
+![housing](umbrella-hook-housing.png)
+![wireframe](umbrella-hook-wireframe.png)
 ![schematic](umbrella-hook-sch.png)
 ![board](umbrella-hook-brd.png)
