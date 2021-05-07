@@ -13,9 +13,12 @@ The umbrella-hook then turns on the on-board LED if the returned hours value ove
 
 Housing:
 ![housing](umbrella-hook-housing.png)
+
 Housing Wireframe:
 ![wireframe](umbrella-hook-wireframe.png)
+
 Circuit Board:
 ![board](umbrella-hook-brd.png)
-Scheatic:
+
+Schematic:
 ![schematic](umbrella-hook-sch.png)
